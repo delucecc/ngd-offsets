@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://nemesiscdn.com/i/AsmEC5awI6Can" alt="ngd-offsets Header" />
+  <img src="https://nemesiscdn.com/i/AsmEC5awI6" alt="ngd-offsets Header" />
 </p>
 
 # ngd-offsets
